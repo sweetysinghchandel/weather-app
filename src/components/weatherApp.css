@@ -74,6 +74,12 @@
   z-index: 100;
   padding:0.75rem;
 }
+.not-found{
+  font-size: 3rem;
+  color: #484569;
+  margin-top: 5rem;
+  text-shadow: -0.3rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
+}
 .weather-type {
   position: absolute;
   top: 48%;
